@@ -1,6 +1,6 @@
 --[[
 	Sling Hoops
-	APPID: ca-app-pub-7062123763561644~5335799307
+	CA_APPID REDACTED
 ]]--
 
 SLING = {
@@ -26,9 +26,9 @@ SLING = {
 -- Setup Ads if compiling an APK to run!
 if( SLING.__COMPILE ) then
 	-- CHANGE THESE TO REAL ADS PLS
-	love.ads.createBanner("ca-app-pub-7062123763561644/9083472629", "bottom");
-	love.ads.requestInterstitial("ca-app-pub-7062123763561644/5144227616");
-	love.ads.requestRewardedAd("ca-app-pub-7062123763561644/6784929570");
+	--REDACTED
+	--REDACTED
+	--REDACTED
 
 end
 
